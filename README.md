@@ -1,5 +1,6 @@
 # Flask_API_GTrends_refugees
 **About:**
+
 The volume of Google searches for Facebook coming out of the Turkish Province of Balikesir is a strong predictor of refugees' Mediterranean crossings (see paper [here](https://panoskostakos.net/wp-content/uploads/2019/01/Trends.pdf_)). I have been thinking for some time now about a possible application that could improve the reaction time of the  emergency response teams. Building on [Hemang Vyas’](https://github.com/vyashemang/flask-salary-predictor/) code, I’ve deployed a machine learning model using flask as an API that I think could be integrated into an inexpensive warning system. 
 
 **Take it for a spin:**
